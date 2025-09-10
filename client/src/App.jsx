@@ -8,6 +8,7 @@ import Footer from "./components/Footer";
 import Home from "./pages/Home";
 import Report from "./pages/Report";      // Create these pages in src/pages/
 import Admin from "./pages/Admin";        // with your project content.
+import "./index.css";                  // Tailwind CSS styles
 
 export default function App() {
   return (
